@@ -24,6 +24,7 @@ module.exports = {
     plugins: ['prettier'],
 
     rules: {
+        'import/extensions': ['error', 'never'],
         'prettier/prettier': 'error',
     },
 
