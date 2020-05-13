@@ -5,12 +5,12 @@ This package provides Strawberry's .eslintrc as a shared npm module. It extends 
 ## Installation
 Install with yarn:
 ```shell
-$ yarn add --dev eslint prettier @strawberrydigital/eslint-config-prettier
+$ yarn add --dev eslint prettier @strawberrydigital/eslint-config
 ```
 
 or install with npm:
 ```shell
-$ npm install --save-dev eslint prettier @strawberrydigital/eslint-config-prettier
+$ npm install --save-dev eslint prettier @strawberrydigital/eslint-config
 ```
 
 ## Usage
