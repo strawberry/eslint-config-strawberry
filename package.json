@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-strawberry",
+  "name": "@strawberrydigital/eslint-config",
   "version": "1.0.0",
   "description": "Strawberry's ESLint config.",
   "main": "index.js",
