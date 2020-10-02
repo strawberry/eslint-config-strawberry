@@ -13,9 +13,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com:strawberry/eslint-config-strawberry/issues"
+    "url": "https://github.com/strawberry/eslint-config-strawberry/issues"
   },
-  "homepage": "https://github.com:strawberry/eslint-config-strawberry",
+  "homepage": "https://github.com/strawberry/eslint-config-strawberry",
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "eslint-config-airbnb-base": "^14.1.0",
